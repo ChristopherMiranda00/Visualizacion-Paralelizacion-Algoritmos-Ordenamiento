@@ -1,7 +1,7 @@
 # Visualizacion y Paralelizacion de Algoritmos de Ordenamiento
 
 1. La visualización de los algoritmos se implementó en la librería p5.js: 
-'''
+```
 Los algoritmos que se presentarán en las búsquedas son 2:
 
 •Secuencial .
