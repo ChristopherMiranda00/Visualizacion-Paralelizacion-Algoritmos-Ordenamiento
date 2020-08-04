@@ -1,1 +1,1 @@
-# Visualizacion 7 Paralelizacion de Algoritmos de Ordenamiento
+# Visualizacion y Paralelizacion de Algoritmos de Ordenamiento
