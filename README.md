@@ -1,6 +1,6 @@
 # Visualizacion y Paralelizacion de Algoritmos de Ordenamiento
 
-1. La visualización de los algoritmos se implementó en la librería p5.js: 
+## 1. La visualización de los algoritmos se implementó en la librería p5.js, estos se necuentran dentro de la carpeta de `Animaciones`: 
 ```
 Los algoritmos que se presentarán en las búsquedas son 2:
 
@@ -33,4 +33,5 @@ Y los algoritmos de ordenamiento se dividirán en estables e inestables :
 •Ordenamiento por montículos (Heap Sort) .
 
 •Ordenamiento rápido (Quick Sort) .
+
 
