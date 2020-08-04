@@ -33,4 +33,4 @@ Y los algoritmos de ordenamiento se dividirán en estables e inestables :
 •Ordenamiento por montículos (Heap Sort) .
 
 •Ordenamiento rápido (Quick Sort) .
-'''
+
